@@ -4,8 +4,10 @@ The purpose of this challenge is to provide in-depth analysis of UFO sightings b
 
 ## Results:
 The existing html code was updated  for users to be able to filter for the date, city, state, country and shape. 
+
 The user is able to filter table by one or multiple criterias. 
 ![Screen Shot 2022-07-17 at 7 47 59 PM](https://user-images.githubusercontent.com/103322251/179429778-2d17d28e-bde4-4a36-80a3-a93862b07055.png)
+
 The user does not need to fill out all fields to obtain the result. 
 ![Screen Shot 2022-07-17 at 8 04 18 PM](https://user-images.githubusercontent.com/103322251/179430258-84d418f2-a6d9-4db8-ac3b-44694b376878.png)
 
